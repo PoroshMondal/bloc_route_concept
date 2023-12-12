@@ -15,14 +15,12 @@ This project is tutorial or practice project of Flutter Page or Screen Route Nav
 
 ## Activate the Route Feature
 
-To activate the specific route feature, just uncomment the desired feature and comment the rest.
+To activate the specific route feature, just uncomment the desired feature and comment the rest from main.dart file.
 
-void main() { 
-    //runApp(const AnonymousRouteApp()); 
-    //runApp(NamedRouteApp());
-    //runApp(const GeneratedRouteApp());
-    runApp(GlobalAccessRouteApp());
-}
+- runApp(const AnonymousRouteApp()); 
+- runApp(NamedRouteApp()); 
+- runApp(const GeneratedRouteApp()); 
+- runApp(GlobalAccessRouteApp());
 
 A few resources to get you started if this is your first Flutter project:
 
